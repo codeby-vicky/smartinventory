@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#757575</color>
+
+    <!-- Dashboard -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="error_red">#D32F2F</color>
+    <color name="low_stock_bg">#FFF3CD</color>
+
+</resources>

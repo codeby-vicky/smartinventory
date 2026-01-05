@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">smartinventory</string>
+    <string name="title_record_sale">Record Sale</string>
+    <string name="label_select_product">Select Product</string>
+    <string name="hint_quantity_sold">Quantity Sold</string>
+    <string name="btn_confirm_sale">Confirm Sale</string><string name="quantity_format">Quantity: %1$d</string>
+    <string name="low_stock">LOW STOCK</string>
+    <string name="logout">Logout</string>
+    <string name="inventory_empty">No products found.\nTap + to add items.</string>
+    <string name="add_product">Add Product</string>
+    <string name="manage_inventory">Manage Inventory</string>
+
+</resources>
